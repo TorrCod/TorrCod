@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there! I'm Christian 👋🏼 👨🏼‍💻
+
+![Twitter header - 1](https://github.com/TorrCod/TorrCod/assets/105502630/4060771b-0c71-405a-b1aa-5702bba5d817)
+
+I hold a Bachelor's Degree in Computer Engineering and am currently immersed in the world of software development as a mobile developer. However, my thirst for knowledge is unending, and I'm always eager to explore new tools and technologies that will enrich my career journey. I have a particular interest in AI and blockchain development, and I'm constantly seeking ways to leverage my experience to stay ahead of emerging trends.
+
+### 📫 Get in Touch
+
+- Email: torreschristian811@gmail.com
+- Website: [www.torrcod.site](https://www.torrcod.site/)
+- LinkedIn: [Christian Bert Torres](https://www.linkedin.com/in/christian-bert-torres-124b34240/)
 
 <!--
 **TorrCod/TorrCod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
